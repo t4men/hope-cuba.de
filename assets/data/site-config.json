@@ -1,0 +1,31 @@
+{
+  "organization": {
+    "legalStatus": "initiative_pre_foundation",
+    "officialRecipientName": "",
+    "taxRecognitionConfirmed": false,
+    "donationReceiptAuthorized": false
+  },
+  "payment": {
+    "bank": {
+      "enabled": false,
+      "verified": false,
+      "owner": "",
+      "iban": "",
+      "bic": ""
+    },
+    "bitcoin": {
+      "enabled": false,
+      "verified": false,
+      "ownerDescription": "",
+      "address": "bc1qdcknh849yme4msnnq3rrqh90xm4w6rjce60rjy"
+    },
+    "crowdfunding": []
+  },
+  "campaign": {
+    "startDate": "2026-11-04",
+    "endDate": "2026-12-03",
+    "minimumGoalEUR": 2000,
+    "stretchGoalEUR": 5000,
+    "verifiedReceivedEUR": null
+  }
+}
